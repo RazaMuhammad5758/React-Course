@@ -1,0 +1,9 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    /* margin-top: 5%; */
+   
+}
+h1 span{
+  color: rgb(252, 28, 214);
+}
