@@ -1,0 +1,6 @@
+.pro{
+    display: flex;
+    flex-direction: row;
+    background-color: #226B80;
+    padding: 10px 10px;
+}

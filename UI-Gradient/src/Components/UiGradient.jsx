@@ -78,8 +78,8 @@ const UiGradient = () => {
             
             </div>
             <h4 style={{color:'white'}}>CSS: background: linear-gradient(to right, {color}, {color2}, {color3});</h4>
+            <div className="heading" > <h1 style={{fontWeight:800}}>Welcome To UI Gradient</h1></div>
             <div className='btns'>
-
             <button className='pre' onClick={ui}>&#8920;</button>
             <button className='next' onClick={ui}>&#8921;</button>
             </div>
