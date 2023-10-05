@@ -1,0 +1,29 @@
+.navbar{
+  display: flex;
+  align-items: center;
+  padding: 20px;
+
+}
+nav{
+  flex: 1;
+  text-align: right;
+}
+nav ul{
+  display: inline-block;
+  list-style: none;
+}
+nav ul li{
+  display: inline-block;
+  margin-right: 20px;
+}
+a{
+  text-decoration: none;
+  color: #000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+a:hover{
+  color: #ff523b;
+}
+
+

@@ -44,7 +44,7 @@ const Footer = () => {
         <hr />
         <p className="copyright">Copyright 2023-RedStore</p>
       </div>
-    </div>
+      </div>
     </div>
   )
 }
